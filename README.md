@@ -1,11 +1,8 @@
 # Android Project : festival music
 
-### เพิ่มเติม
-ฝากกด follow github/supakjack ด้วยครับ เน้นพวก node.js , vue.js , react , angular (frontent js ทั้งหลาย) เป็นหลักงับ พวก socket.io , Restfulapi หรือ docker ก็มีฝากด้วยงับ 
-
 ## 1. หน้าแรก
-### - มี 2 เมนู คือ ดำเนินการต่อด้วย facebook เพื่อเข้าสู่ห้องแชท หรือกดดูรายละเอียดใน readme  
-![alt text](https://user-images.githubusercontent.com/62204557/77159133-5c766f80-6ad7-11ea-9855-de60546576e6.jpg)
+### - มี 2 เมนู คือ ดำเนินการต่อด้วย facebook เพื่อเข้าสู่ main menu หรือ login แบบธรรมดา
+![alt text](https://user-images.githubusercontent.com/62204557/77161862-42d82680-6add-11ea-9a60-e1c8c69ba15b.PNG)
 
 ## 2. หน้าห้องแชท
 ### - จะแสดงแชททั้งหมด แบบเรียทามได้ สามารถส่งข้ความคุยกันในห้องได้แบบไม่ระุตัวตน สามารถกดล็อคเอาเพื่อกลับไปหน้าหลักได้ 
