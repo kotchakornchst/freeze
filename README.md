@@ -1,5 +1,11 @@
 # Android Project : festival music
 
+_แรงบันดาลใจจากการใช้แอปพลิเคชั่นฟังเพลงแต่ปรับแต่งจ่ากการฟังเพลงงเป็นการดูรายละเอียดของเพลงแทน
+ใช้เครื่อง facebook-authen
+      fragmennt
+      recycler-view
+      grahp
+
 ## 1. หน้าแรก
 ### - มี 2 เมนู คือ ดำเนินการต่อด้วย facebook เพื่อเข้าสู่ main menu หรือ login แบบธรรมดา
 ![alt text](https://user-images.githubusercontent.com/62204557/77162185-f17c6700-6add-11ea-86d4-db9db89ebd6b.PNG)
