@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "903224554180",
+    "firebase_url": "https://reuesview-ba7ec.firebaseio.com",
+    "project_id": "reuesview-ba7ec",
+    "storage_bucket": "reuesview-ba7ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903224554180:android:7206dbe4ffd5e0eeaacf91",
+        "android_client_info": {
+          "package_name": "com.example.reuesview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903224554180-d2d17h4sro7f807ldj7v08l7jvg398fm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reuesview",
+            "certificate_hash": "d768b602f55363e9db65eeed879c3b04cdb12fee"
+          }
+        },
+        {
+          "client_id": "903224554180-guqj4l6c5bg94fmvflgrav67j7g944vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ-hs13AAkFbMw6LN3ESFF2Qzbtn-M6us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903224554180-guqj4l6c5bg94fmvflgrav67j7g944vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
