@@ -1,7 +1,4 @@
-# Android Project : Anonymous Chatroom
-
-## Anonymous Chatroom
-ห้องแชทเรียทาม ไม่ระบุตัวตน แต่ต้องยืนยันตัวตนด้วยเฟสบุคก่อนใช้งานนะ ไม่เก็บข้อมูลผู้ใช้(ยกเว้นข้อความ) มีกราฟเส้น(มอคค่า) มีรีไซเคิลวิว มีริสวิวด้วย 
+# Android Project : festival music
 
 ### เพิ่มเติม
 ฝากกด follow github/supakjack ด้วยครับ เน้นพวก node.js , vue.js , react , angular (frontent js ทั้งหลาย) เป็นหลักงับ พวก socket.io , Restfulapi หรือ docker ก็มีฝากด้วยงับ 
