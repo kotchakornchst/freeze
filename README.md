@@ -2,7 +2,7 @@
 
 ## 1. หน้าแรก
 ### - มี 2 เมนู คือ ดำเนินการต่อด้วย facebook เพื่อเข้าสู่ main menu หรือ login แบบธรรมดา
-![alt text](https://user-images.githubusercontent.com/62204557/77161862-42d82680-6add-11ea-9a60-e1c8c69ba15b.PNG)
+![alt text](https://user-images.githubusercontent.com/62204557/77162185-f17c6700-6add-11ea-86d4-db9db89ebd6b.PNG)
 
 ## 2. main menu
 ### - จะแสดงmenu ประเภทของเพลง และdashboard
