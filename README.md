@@ -18,4 +18,4 @@
 
 ## 5.dashboard
 ### - แสดงค่าแบบสถิติ
-![alt text](https://user-images.githubusercontent.com/48548611/77112298-59d63480-6a5b-11ea-8cd8-2a16ced476f1.png)
+![alt text](https://user-images.githubusercontent.com/62204557/77161862-42d82680-6add-11ea-9a60-e1c8c69ba15b.PNG)
