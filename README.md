@@ -4,9 +4,9 @@
 ### - มี 2 เมนู คือ ดำเนินการต่อด้วย facebook เพื่อเข้าสู่ main menu หรือ login แบบธรรมดา
 ![alt text](https://user-images.githubusercontent.com/62204557/77161862-42d82680-6add-11ea-9a60-e1c8c69ba15b.PNG)
 
-## 2. หน้าห้องแชท
-### - จะแสดงแชททั้งหมด แบบเรียทามได้ สามารถส่งข้ความคุยกันในห้องได้แบบไม่ระุตัวตน สามารถกดล็อคเอาเพื่อกลับไปหน้าหลักได้ 
-![alt text](https://user-images.githubusercontent.com/48548611/77112531-c3564300-6a5b-11ea-99d8-303a064e1a0d.png)
+## 2. main menu
+### - จะแสดงmenu ประเภทของเพลง และdashboard
+![alt text](https://user-images.githubusercontent.com/62204557/77162596-eaa22400-6ade-11ea-9dea-08e009dce30e.PNG)
 
 ## 3. หน้า Readme (1/2)
 ### - จะแสดงรายละเอียดแอพ (อันนี้รีไสเคิลวิว + อแดปเตอร์ json)
